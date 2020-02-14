@@ -1,13 +1,13 @@
 {
-"country_1": "US",
-  "country_2": "United States",
-  "currency": "$",
- "lang": "en",
-  "FaceBookCurrency": "USD",
-  "upsell1ID": 22,
-  "upsell2ID": 21,
-"upsell3ID": 23,
-  "Lo_Site_Id": 222,
+"country_1": "DE",
+  "country_2": "Deutschland",
+  "currency": "&#8364;",
+ "lang": "de",
+ "Lo_Site_Id": 191003,
+  "FaceBookCurrency": "EUR",
+  "upsell1ID": 82,
+  "upsell2ID": 81,
+  "upsell3ID": 83,
   "IsNoStateCheckOut": false,
  "Flow": {
  "leadPage": {
@@ -43,8 +43,8 @@
   },
   "products": [
     {
-       "cid": 19,
-      "cid_free": 20,
+      "cid": 79,
+      "cid_free": 80,
       "img": "/resources/images/main-banner.jpg",
       "imgsafe": "/resources/images/smain-big.jpg",
       "img_small": "/resources/images/smain-small.jpg",
@@ -53,18 +53,18 @@
       "old_price_u1": 39.95,
       "name": "<b>Feg Serum</b> - Eyelash Enhancer",
       "one_free": "1 Free",
-      "discount_expires": "The discount expires in ",
-      "discount": "Discount",
+      "discount_expires": "Der Rabatt verfällt in",
+      "discount": "Rabatt",
       "rewiews_mark": "9.8",
-      "excellent": "Excellent",
-      "num_reviews": "53 Reviews",
-      "buy_2_get_1": "Buy 2 and get 1 for free",
+      "excellent": "Ausgezeichnet",
+      "num_reviews": "49 Bewertungen",
+      "buy_2_get_1": "Kaufen Sie 2 und erhalten Sie 1 kostenlos",
       "satisfaction_guaranteed": "Satisfaction<br>Guaranteed",
-      "add_to_cart": "Add to Cart",
-      "support_email": "support@woweyelashserum.com",
-      "rand_head": "60% Off - US Only",
+      "add_to_cart": "in den Warenkorb legen",
+      "support_email": "support@diebestenaugen.com",
+      "rand_head": "Kostenloser Versand bis zum Wochenende",
       "logos": "../resources/images/logos.jpg",
-      "head": "60% Discount + Free Shipping - USA"
+      "head": "DE - 60% RABATT NUR HEUTE! "
     }
   ]
 }
