@@ -125,7 +125,7 @@ $orderItem = GetOrderItem($ksdk, $data->upsell1ID);
 
     if ($orderItem) {
 
-        $pageEvent = "Purchase";
+        $pageEvent = "upsell1Purchase";
         $Value = array("value" => $orderItem->price, 'currency' => $data->FaceBookCurrency);
         $qs = ["Event" => $pageEvent, "Value" => $Value];
         include_once('pixelcode/pixelhelper.php');
