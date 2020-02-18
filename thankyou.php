@@ -188,7 +188,7 @@ $currency = $ksdk->currencySymbol;
 
 if ($orderItem) {
 
-    $pageEvent = "Purchase";
+    $pageEvent = "upsell3Purchase";
     $Value = array("value" => $orderItem->price, 'currency' => $data->FaceBookCurrency);
     $qs = ["Event" => $pageEvent, "Value" => $Value];
     include_once('pixelcode/pixelhelper.php');
